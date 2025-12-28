@@ -56,8 +56,6 @@ This is a beginner-friendly ML project focused on understanding classification, 
 
 ---
 
-## 📊 Model Output
-![KNN Iris Classification Output](images/screenshot_2025_12_28.png)
 
 ---
 
