@@ -3,4 +3,4 @@
 About
 The "IRIS Flower Classification" GitHub repository is a project dedicated to classifying iris flowers based on their attributes.
 
-![Uploading image.png…]()
+![Uploading image.png…](images)
